@@ -1,0 +1,11 @@
+:root{
+    --font-color__aside-menu : #fff;
+    --background-color__aside-menu: rgba(65, 74, 89, 1);
+    --aside-logo-background-image : url("../assets/logo.svg");
+    --aside-width : 104px;
+    --el-color-primary: black;
+}
+
+body {
+    margin: 0;
+}
